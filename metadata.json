@@ -1,0 +1,6 @@
+{
+  "name": "技術文章摘要器",
+  "description": "專為工程師與技術愛好者打造的 AI 技術文章摘要器，快速提煉系統架構、關鍵代碼、技術選型優缺點與實務踩坑指南。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
